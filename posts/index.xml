@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://ooxoox.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2022 01:10:18 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 01:10:18 +0800</lastBuildDate><atom:link href="https://ooxoox.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>穗花棋盤腳絢麗綻放 新北八里龍米公園共賞夏日煙火</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://ooxoox.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 16 Jul 2022 01:10:18 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://ooxoox.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;身為台灣國寶級原生種，又有夏日煙花之稱的「穗花棋盤腳」，現已陸續在八里龍米河濱公園綻放，花期預計可至7月底左右，每個夏日夜晚每朵蓄勢萌發的花苞約在七點以後會逐漸展開，直至午夜像煙火般全開盛放璀璨，歡迎各位喜歡賞花的市民朋友準備好相機，讓我們與您相約八里，一同乘著晚風，暫時將所有煩惱拋諸腦後，恣意漫步在夕陽西下的浪漫河濱，共賞這難得的煙花美景吧！&lt;/p&gt;</description>
     </item>
     
