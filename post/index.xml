@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beautiful Hugo</title>
-    <link>https://ooxoox.github.io/</link>
-    <description>Recent content on Beautiful Hugo</description>
+    <title>Posts on Beautiful Hugo</title>
+    <link>https://ooxoox.github.io/post/</link>
+    <description>Recent content in Posts on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Sat, 16 Jul 2022 01:10:18 +0800</lastBuildDate><atom:link href="https://ooxoox.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>穗花棋盤腳絢麗綻放 新北八里龍米公園共賞夏日煙火</title>
-      <link>https://ooxoox.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 16 Jul 2022 01:10:18 +0800</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://ooxoox.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.taiwanhot.net/cache/1021629/lg/medias-20220715-62d1062dd4ab4.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;身為台灣國寶級原生種，又有夏日煙花之稱的「穗花棋盤腳」，現已陸續在八里龍米河濱公園綻放，花期預計可至7月底左右，每個夏日夜晚每朵蓄勢萌發的花苞約在七點以後會逐漸展開，直至午夜像煙火般全開盛放璀璨，歡迎各位喜歡賞花的市民朋友準備好相機，讓我們與您相約八里，一同乘著晚風，暫時將所有煩惱拋諸腦後，恣意漫步在夕陽西下的浪漫河濱，共賞這難得的煙花美景吧！&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ooxoox.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photoswipe Gallery Sample</title>
       <link>https://ooxoox.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
@@ -169,17 +159,6 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <author>youremail@domain.com (Some Person)</author>
       <guid>https://ooxoox.github.io/post/2015-01-04-first-post/</guid>
       <description>This is my first post, how exciting!</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://ooxoox.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>https://ooxoox.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
-I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
   </channel>
